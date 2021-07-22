@@ -15,5 +15,5 @@ You can also host the JSON in a Github Gist, which might make it easer for team 
 
 ## Examples
 
-* [Demo StoryMap](https://samplereality.github.io/storymap/)
+* [Demo StoryMap](https://uploads.knightlab.com/storymapjs/5827baef53df8276c847918b5fa151fd/ruas-com-historiaa/index.html)
 * [Demo JSON](https://github.com/Fred1279/storymap/blob/master/demo.json) in a Gist
