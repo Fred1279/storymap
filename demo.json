@@ -1823,7 +1823,7 @@
     ],
     "map_type": "osm:standart",
     "call_to_action_text": "",
-    "map_as_image": false,
+    "map_as_image": true,
     "map_subdomains": ""
   }
 }
