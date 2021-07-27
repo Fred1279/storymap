@@ -1,7 +1,7 @@
 {
 	"storymap": {
 		"attribution": "",
-		"call_to_action": true,
+		"call_to_action": false,
 		"zoomify": false,
 		"slides": [{
 				"date": "",
@@ -13,7 +13,7 @@
 				"type": "overview",
 			        "zoom": 18,
 				"location": {
-					"line": true
+				"line": true
 				},
 				"text": {
 					"headline": "RUAS COM HISTÓRIA - RIO MAIOR",
