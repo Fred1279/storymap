@@ -3,8 +3,6 @@
 		"attribution": "",
 		"call_to_action": true,
 		"zoomify": false,
-		"minZoomLevel": 2,
-		"maxZoomLevel": 15,
 		"slides": [{
 				"date": "",
 				"media": {
@@ -13,8 +11,7 @@
 					"credit": ""
 				},
 				"type": "overview",
-			        "minZoomLevel": 2,
-		                "maxZoomLevel": 15,
+			        "zoom": 18,
 				"location": {
 					"line": true
 				},
