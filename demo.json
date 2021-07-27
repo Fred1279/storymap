@@ -1,8 +1,8 @@
 {
 	"storymap": {
 		"attribution": "",
-		"call_to_action": false,
-		"zoomify": false,
+		"call_to_action": true,
+		"zoomify": true,
 		"slides": [{
 				"date": "",
 				"media": {
