@@ -2,6 +2,8 @@
   "storymap": {
     "attribution": "",
     "call_to_action": true,
+    "minZoomLevel": 2,
+		"maxZoomLevel": 15,
     "zoomify": false,
     "slides": [
       {
