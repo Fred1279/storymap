@@ -767,9 +767,9 @@
           "credit": ""
         },
         "location": {
-          "lat": 39.32266,
+          "lat": 39.32313,
           "line": true,
-          "lon": -8.93683,
+          "lon": -8.93676,
           "zoom": 18
         },
         "text": {
@@ -1828,4 +1828,3 @@
     "map_subdomains": ""
   }
 }
-
