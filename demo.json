@@ -1825,7 +1825,6 @@
     "map_type": "osm:standart",
     "call_to_action_text": "",
     "map_as_image": true,
-    "zoomEnabled": false,
     "map_subdomains": ""
   }
 }
