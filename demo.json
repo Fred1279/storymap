@@ -3,7 +3,6 @@
     "attribution": "",
     "call_to_action": true,
     "calculate_zoom": false,
-    "zoomEnabled": false,
     "zoomify": false,
     "slides": [
       {"background": "//uploads.knightlab.com/storymapjs/5827baef53df8276c847918b5fa151fd/ruas-com-historiaa/_images/1 - Cidade Rio Maior geral.jpg",
@@ -1826,6 +1825,7 @@
     "map_type": "osm:standart",
     "call_to_action_text": "",
     "map_as_image": true,
+    "zoomEnabled": false,
     "map_subdomains": ""
   }
 }
